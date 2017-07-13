@@ -11,7 +11,7 @@ Projekt realizowany w ramach przedmiotu Analiza i Przetwarzanie obrazów, AGH 20
 1. Znajdowanie w obrazie głównej planszy sudoku
 2. Przygotowanie obrazu pod OCR -> detekcja i usuniecie lini z obrazu aby pozostały same cyfry
 3. Wywołanie algorytmu OCR dla otrzymanego obrazu
-4. Detekcja położenie wykrytych cyfr względem planszy sudoku, zapis do tablicy dwuwymiarowej oraz wykrycie poszczególnych pul sudoku
+4. Detekcja położenie wykrytych cyfr względem planszy sudoku, zapis do tablicy dwuwymiarowej oraz wykrycie poszczególnych pól sudoku
 5. Wywołanie algorytmu rozwiązującego sudoku
 6. Zapisanie wyników na główny obraz z uwzględnieniem proporcji obrazu
 
