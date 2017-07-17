@@ -1,5 +1,5 @@
 #pragma once
-#include "debug.h"
+#include "Debug.h"
 #include <chrono>
 
 #define SUDOKU_SIZE 9
