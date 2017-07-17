@@ -1,5 +1,5 @@
 #pragma once
-
+#include "debug.h"
 #include <chrono>
 
 #define SUDOKU_SIZE 9
@@ -10,8 +10,3 @@
 #define TIME_MEASURMENT
 
 
-#ifdef DEBUG
-#  define DEBUG_LOG(x) do { std::cerr << x << std::endl; } while (false)
-#else
-#  define DEBUG_LOG(x) do {} while (false)
-#endif
